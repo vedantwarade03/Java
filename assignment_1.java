@@ -13,8 +13,8 @@ class Person{
 }
 public class Assignment1 {
     public static void main(String[] args) {
-        Person p1 = new Person("Anshika",20);
-        Person p2 = new Person("Anshi",21);
+        Person p1 = new Person("Vedant",20);
+        Person p2 = new Person("Ved",21);
         p1.PrintDetails();
         p2.PrintDetails();
     }
